@@ -1,4 +1,4 @@
-# a👋 Hi, I'm Venkatesh Manuka!
+#  Hi, I'm Venkatesh Manuka! 👋
 
 Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pandas, NumPy, and scikit-learn. Skilled in data preprocessing, model development, and AI deployment. Strong analytical abilities in handling large datasets and transforming data into actionable insights. Adept at working in Git-based collaborative environments. Passionate about AI, machine learning, data science, and cloud computing, with a track record of delivering optimized data-driven solutions. I love turning raw data into actionable insights using Python, SQL, Power BI, and machine learning models. 🚀
 
