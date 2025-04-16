@@ -55,7 +55,7 @@ Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pan
 
 ## 🏗️ Projects
 
-### **1️⃣ Optimization of Bus Ticketing Demand & Forecasting** 🚍
+### ** **1** Optimization of Bus Ticketing Demand & Forecasting** 🚍
 
 🔹 **Objective:** Predict ticket sales & passenger demand to optimize scheduling.\
 🔹 **Tech Stack:** Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, ARIMA, SARIMA, LSTM, Power BI, Flask, Streamlit\
@@ -67,7 +67,7 @@ Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pan
 - Deployed using **Flask & Streamlit** for real-time forecasting.
 - **Impact:** Improved **resource allocation & profitability** while minimizing operational inefficiencies.
 
-### **2️⃣ Cancer Detection using Machine Learning** 🏥
+### ** **2** Cancer Detection using Machine Learning** 🏥
 
 🔹 **Objective:** Predict whether a breast cancer diagnosis is **benign or malignant**.\
 🔹 **Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Power BI\
@@ -78,7 +78,7 @@ Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pan
 - **Power BI dashboard** for visualizing **model performance & medical insights**.
 - Model deployed using **Pickle & Joblib** for hospital integration.
 
-### **2️⃣Hospital Emergency Room Analysis** 🏥
+### ** **3** Hospital Emergency Room Analysis** 🏥
 
 - **Objective:** Analyze and optimize emergency room (ER) operations by reducing patient wait times, improving resource allocation, and enhancing decision-making.
 - **Technologies Used:** Power BI, SQL, DAX, Python, Pandas, NumPy, Scikit-Learn.
