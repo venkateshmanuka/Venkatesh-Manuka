@@ -91,7 +91,7 @@ Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pan
 
 🔹 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkatesh-manuka/)
 🔹 **Email**: [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:venkateshmanuka123@gmail.com)
-🔹 **GitHub**: [![GitHub Stars](https://img.shields.io/github/stars/venkatesh-manuka?style=social)](https://github.com/venkatesh-manuka)
+🔹 **GitHub**: [![GitHub Stars](https://img.shields.io/github/stars/venkatesh-manuka?style=social)]([https://github.com/venkatesh-manuka](https://github.com/venkateshmanuka?tab=following))
 
 ---
 
