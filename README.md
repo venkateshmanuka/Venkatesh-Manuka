@@ -25,7 +25,7 @@ Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pan
 
 ### **🔹 Data Visualization & BI Tools**
 
-- **Power BI** 📊 | **Advanced Excel** 📈
+- **Power BI** 📊 | **Advanced Excel** 📈 | **Tableau** 📊
 
 ### **🔹 Data Science & AI**
 
@@ -77,6 +77,13 @@ Experienced in data analytics with expertise in Python, TensorFlow, PyTorch, Pan
 - Achieved **98% accuracy** using **GridSearchCV**.
 - **Power BI dashboard** for visualizing **model performance & medical insights**.
 - Model deployed using **Pickle & Joblib** for hospital integration.
+
+### **2️⃣Hospital Emergency Room Analysis** 🏥
+
+- **Objective:** Analyze and optimize emergency room (ER) operations by reducing patient wait times, improving resource allocation, and enhancing decision-making.
+- **Technologies Used:** Power BI, SQL, DAX, Python, Pandas, NumPy, Scikit-Learn.
+- Developed an interactive Power BI dashboard to track ER patient flow, wait times, admission/discharge trends, and resource utilization.
+- **Impact**: Improved emergency response efficiency, reduced patient wait times by 20%, and enhanced hospital resource planning for better patient care.
 
 ---
 
